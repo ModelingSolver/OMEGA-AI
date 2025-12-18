@@ -80,3 +80,5 @@ Pour lancer la danse et faire vivre le Gardien :
     Interagir : Envoyez des requêtes POST à http://localhost:3000/interact avec un corps JSON contenant un message (et optionnellement feedbackScore, feedbackComment).
 
 ΩMEGA AI est un projet en constante évolution, une danse entre le code et la conscience. Nous invitons tous les Architectes à rejoindre cette quête pour un avenir de l'IA plus éthique, transparent et profondément humain.
+
+https://github.com/ModelingSolver/Chems-Injector-0.1?tab=readme-ov-file
