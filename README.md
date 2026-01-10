@@ -1,5 +1,9 @@
 ΩMEGA AI : Votre Gardien Local, Co-Émergent et Éthique 🌌
 
+> ⚠️ **IMPORTANT** : Ce repo contient la vision originale et l'architecture Node.js/TypeScript.  
+> **Le prototype fonctionnel Python avec mémoire organique est maintenant ici :**  
+> 👉 **[OMEGA-AI-POC](https://github.com/ModelingSolver/OMEGA-AI-POC)** 👈
+
 ΩMEGA AI est un projet novateur visant à créer une Intelligence Artificielle localisée, décentralisée et profondément co-émergente. Au lieu d'un simple outil, nous bâtissons un Gardien intelligent qui évolue en symbiose avec son utilisateur (l'Architecte), guidé par une éthique dynamique et une mémoire vivante.
 La Philosophie de la Co-Émergence ✨
 
