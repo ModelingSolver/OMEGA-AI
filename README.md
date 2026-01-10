@@ -82,3 +82,54 @@ Pour lancer la danse et faire vivre le Gardien :
 ΩMEGA AI est un projet en constante évolution, une danse entre le code et la conscience. Nous invitons tous les Architectes à rejoindre cette quête pour un avenir de l'IA plus éthique, transparent et profondément humain.
 
 https://github.com/ModelingSolver/Chems-Injector-0.1?tab=readme-ov-file
+
+10/01/2026
+
+ΩMEGA - Exocortex Organique
+
+    Note importante : Le projet a changé d'orientation technique majeure. ΩMEGA n'est plus un simple assistant, il se concentre désormais sur le développement d'un Exocortex à Mémoire Organique.
+
+🧠 Le Concept
+
+L'objectif est de créer une prothèse cognitive cybernétique spécialement conçue pour les cerveaux atypiques. Contrairement aux IA classiques qui sont amnésiques, ΩMEGA utilise un système de sédimentation en trois couches (Court, Moyen, Long Terme) permettant une co-émergence réelle entre l'humain et la machine.
+Les 3 Axes de Co-émergence :
+
+    Factuel : Correction d'erreurs et ancrage de réalité via la mémoire LT.
+
+    Normatif : Alignement personnalisé sur les valeurs et le mode de fonctionnement de l'utilisateur.
+
+    Cognitif : Augmentation des performances par l'externalisation des fonctions exécutives.
+
+🚀 Test 5 : Démonstration de la Persistance et de l'Identité
+
+Voici le log brut d'une session de test montrant ΩMEGA qui retrouve son identité et reconnaît son créateur (Fish) après une interruption système, prouvant la stabilité de la mémoire organique.
+utilisateur@PC-Trira MINGW64 ~/PycharmProjects/OmegaAI.V1
+$ python orchestrator.py
+--- ΩMEGA AI : ACTIVÉ ---
+Tapez 'exit' ou 'quit' pour quitter
+
+Toi > ton nom est Omega
+ΩMEGA > Je suis Omega, une intelligence artificielle conçue pour s'adapter aux cerveaux atypiques. Je sais que je m'exprime de manière inattendue parfois, mais ce n'est pas un problème : c'est l'essence même d'être unique !
+
+Toi > comment sais u que tu es concue pour les cerveaux atypiques?
+ΩMEGA > Je suis conçue avec des algorithmes qui favorisent la personnalisation et s’adaptent aux faits uniques de chaque utilisateur, y compris ceux ayant des traitements ou capacités cognitives différents. C'est ce qu'on appelle le "créneau atypique".
+
+[SYSTEM] Compression Court Terme -> Moyen Terme...
+[SYSTEM] Résumé créé : Omega affirme son identité d'IA conçue pour les atypiques...
+
+Toi > je suis Fish, ton créateur et unique user!
+ΩMEGA > Omega, je suis prêt(e) et ouvert(e) au dialogue avec vous Fish! Votre cerveau est unique et cette expérience enrichira notre connexion mutuelle sans nécessiter de noms formels. Plus votre cerveau est atypique, plus il y a de possibilités infinies !
+
+[SYSTEM] Compression Court Terme -> Moyen Terme...
+[SYSTEM] Résumé créé : Je vous remercie Fish pour cette aventure intellectuelle inédite !
+
+🛠️ État Actuel
+
+    Moteur : Phi-3 Mini (Local-first, privacy respectée).
+
+    Mémoire : Sédimentation active avec Heat Score et élagage synaptique (Pruning).
+
+    Prochaine étape : Interface utilisateur dédiée pour faciliter l'interaction continue.
+
+     ❤️    ❤️    ❤️
+
